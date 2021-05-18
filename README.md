@@ -42,6 +42,9 @@ Thank you for having interest in this repository :)
 
 4. Add to your favourite
 
+![ addtoFav](https://user-images.githubusercontent.com/75537119/118620871-dbad2380-b800-11eb-957b-0644d56390fb.gif)
+
+
 5. Manage your favourite list
 
 ![favPage](https://user-images.githubusercontent.com/75537119/118620574-97218800-b800-11eb-85dc-6bf81fac5b19.gif)
