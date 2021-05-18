@@ -4,6 +4,8 @@ Thank you for having interest in this repository :)
 
 # My Movie Web
 
+used a real API from TMDB (https://www.themoviedb.org/).
+
 # What I used?
 > 1. React Hook/Router
 > 2. Node.js
