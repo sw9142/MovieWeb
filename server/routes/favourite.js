@@ -39,13 +39,13 @@ router.post("/number", (req, res) => {
 });
 
 router.post("/getfavourites", (req, res) => {
-  console.log("userFrom?: ", req.body.userFrom);
+
   Favourite.find({ userFrom: req.body.userFrom }).exec((err, info) => {
     if (err) {
       res.status(404).send("failed in finding MovieId");
     }
     if (info) {
-      console.log("success! we found!", info);
+    
       res.status(200).json({
         success: true,
         data: info,
